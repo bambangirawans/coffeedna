@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Café Coffee Day",
+        "types": ["Espresso", "Cappuccino", "Latte"],
+        "location": "USA",
+        "url": "https://www.cafecoffeeday.com",
+        "services": ["In-store purchase", "Online order", "Home delivery"]
+    },
+    {
+        "name": "Starbucks",
+        "types": ["Americano", "Frappuccino", "Mocha"],
+        "location": "Global",
+        "url": "https://www.starbucks.com",
+        "services": ["In-store purchase", "Drive-thru", "Mobile app order", "Home delivery"]
+    },
+    {
+        "name": "Blue Bottle Coffee",
+        "types": ["Pour Over", "Cold Brew", "Espresso"],
+        "location": "USA",
+        "url": "https://bluebottlecoffee.com",
+        "services": ["In-store purchase", "Subscription service", "Home delivery"]
+    },
+    {
+        "name": "Peet's Coffee",
+        "types": ["Dark Roast", "Medium Roast", "Light Roast"],
+        "location": "USA",
+        "url": "https://www.peets.com",
+        "services": ["In-store purchase", "Online order", "Subscription service", "Home delivery"]
+    },
+    {
+        "name": "Nespresso",
+        "types": ["Espresso", "Cappuccino", "Latte"],
+        "location": "Global",
+        "url": "https://www.nespresso.com",
+        "services": ["Online order", "Subscription service", "Home delivery", "Machine servicing"]
+    }
+]
