@@ -1,4 +1,3 @@
-```markdown
 # CoffeeDNA ☕
 
 **Discover Your Coffee DNA – Personalized Brews, Perfectly Matched**
@@ -7,7 +6,6 @@ CoffeeDNA is an interactive, AI-driven chat application that personalizes coffee
 
 ## Table of Contents
 - [Features](#features)
-- [Screenshots](#screenshots)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Environment Variables](#environment-variables)
@@ -15,7 +13,7 @@ CoffeeDNA is an interactive, AI-driven chat application that personalizes coffee
 - [License](#license)
 
 ## Features
-- **Personalized Coffee Recommendations**: Users receive tailored coffee suggestions based on their input,  preference settings, analyze sentiment, similarity using  langchain OpenAIEmbeddings
+- **Personalized Coffee Recommendations**: Users receive tailored coffee suggestions based on their input and preference settings.
 - **Customizable Preferences**: Language, tone, and level of detail can be set to match each user’s style.
 - **Flavor Profile Matching**: Unique flavor preferences, including bean type and coffee strength, refine recommendations.
 - **Chat History with Message Re-Selection**: Users can select previous messages to use as new input, expanding upon earlier conversations.
