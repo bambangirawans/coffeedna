@@ -99,4 +99,3 @@ For questions or feedback, feel free to reach out or open an issue on this repos
 Happy brewing with CoffeeDNA! ☕
 ```
 
-This update includes a new section, **Environment Variables**, explaining how to add the `OPENAI_API_KEY` in a `.env` file, which will be securely accessed by your application.
