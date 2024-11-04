@@ -66,6 +66,7 @@ CoffeeDNA is an interactive, AI-driven chat application that personalizes coffee
 1. **Set Preferences**: Use the sidebar to select language, tone, detail level, and specify your coffee preferences (e.g., flavor profile and bean type).
 2. **Chat**: Enter your coffee preference query in the chat box and click "Send." The AI will respond with a tailored coffee recommendation.
 3. **Re-use Previous Messages**: Click "Use as Input" on any previous message to modify and send it as a new query, enhancing the conversation.
+4. **clear all chat** :Type 'clear all chat' to start a new conversation. Adjust your preferences on the sidebar to fine-tune recommendations. 
 
 ## Environment Variables
 The following environment variable is required for CoffeeDNA to work correctly:
@@ -85,7 +86,7 @@ We welcome contributions to make CoffeeDNA even better! Please follow these step
 4. Push to your fork and create a pull request.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU General Public License v3.0 License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 - CoffeeDNA is inspired by the love for personalized coffee experiences.
